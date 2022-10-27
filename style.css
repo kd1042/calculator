@@ -65,6 +65,7 @@ body{
 .bt2:hover{
     background-color: antiquewhite;
     transform: scale(3.1);
+    transition: 0.2s ease;
 }
 
 .r2,
